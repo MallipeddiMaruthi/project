@@ -1,0 +1,6 @@
+My thoughts for a  design document on how to crawl a website site and save the images and text from the website.
+1.Image Cyborg is a web app that quickly downloads all the images of a web page. This Handy tool has a simple and straightforward home interface just like a searching engine. You have nowhere to go except download the images.
+  Despite the easy accessibility, it comes with some apparent defects. Here are my using experiences.
+  1. Images are mostly low resolution and small sized. Yes, most of them are thumbnail images.
+  2. The zip files share the same name: [image-cyborg]. Need to rename the file one by one.
+  3. Some logos or avatars images will be packed but you might need them.
